@@ -33,7 +33,7 @@ public class Main {
                     Aritmetica.realizarMedia();
                     break;
                 case 2:
-
+                    Ponderada.realizarMedia();
                     break;
                 case 3:
                     System.out.println("Saindo...");
