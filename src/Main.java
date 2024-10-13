@@ -20,27 +20,28 @@ public class Main {
         int opcao =0;
         Scanner sc = new Scanner(System.in);
 
+        do {
+            System.out.println("Menu de opções:\n" +
+                    "1. Média aritmética\n" +
+                    "2. Média ponderada\n" +
+                    "3. Sair\n" +
+                    "Digite a opção desejada.");
+            opcao = sc.nextInt();
 
-        System.out.println("Menu de opções:\n" +
-                "1. Média aritmética\n" +
-                "2. Média ponderada\n" +
-                "3. Sair\n" +
-                "Digite a opção desejada.");
-        opcao = sc.nextInt();
+            switch (opcao) {
+                case 1:
+                    Aritmetica.realizarMedia();
+                    break;
+                case 2:
 
-        switch (opcao){
-            case 1:
-
-                break;
-            case 2:
-
-                break;
-            case 3:
-
-                break;
-            default:
-
-        }
+                    break;
+                case 3:
+                    System.out.println("Saindo...");
+                    break;
+                default:
+                    System.out.println("Opcão inválida!!!");
+            }
+        }while(opcao!=3);
     }
 }
 
