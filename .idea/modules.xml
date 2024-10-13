@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Atv3/Atv3.iml" filepath="$PROJECT_DIR$/Atv3/Atv3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atv4/Atv4.iml" filepath="$PROJECT_DIR$/Atv4/Atv4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atv2/AtvPSC3_0.iml" filepath="$PROJECT_DIR$/Atv2/AtvPSC3_0.iml" />
     </modules>
   </component>
