@@ -3,10 +3,10 @@ public class Aritmetica {
     private double nota2;
     private double media;
 
-}
 
-public static void realizarMediaa(){
+    public static void realizarMedia() {
 
+    }
 }
 
 
