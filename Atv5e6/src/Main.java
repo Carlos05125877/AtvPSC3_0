@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 class Main {
 
     public static void main(String[] args) {
@@ -29,7 +28,7 @@ class Main {
                     break;
                 case 3:
 
-                    System.out.println("Lista de Medicos");
+                    Medicos.listarMedico();
                     break;
                 case 4:
                     // agendamento

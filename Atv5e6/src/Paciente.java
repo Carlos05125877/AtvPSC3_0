@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Paciente {
+public class Paciente {
 
     private int idPaciente;
     private String nomePaciente;

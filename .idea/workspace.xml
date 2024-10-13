@@ -7,6 +7,7 @@
     <list default="true" id="5e0ec142-e210-469f-b0fc-fdc892caa688" name="Changes" comment="cc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Atv5e6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atv5e6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atv5e6/src/Medicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atv5e6/src/Medicos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Atv5e6/src/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atv5e6/src/Paciente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728841929445</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="cc">
+      <option name="closed" value="true" />
+      <created>1728843078265</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728843078265</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
