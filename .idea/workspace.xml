@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5e0ec142-e210-469f-b0fc-fdc892caa688" name="Changes" comment="cc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Atv5e6/src/Medicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atv5e6/src/Medicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atv5e6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atv5e6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atv5e6/src/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atv5e6/src/Paciente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +210,31 @@
       <option name="project" value="LOCAL" />
       <updated>1728840521660</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="cc">
+      <option name="closed" value="true" />
+      <created>1728841728745</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728841728745</updated>
+    </task>
+    <task id="LOCAL-00017" summary="cc">
+      <option name="closed" value="true" />
+      <created>1728841873332</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728841873332</updated>
+    </task>
+    <task id="LOCAL-00018" summary="cc">
+      <option name="closed" value="true" />
+      <created>1728841929445</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728841929445</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -25,12 +25,9 @@ class Main {
                     Medicos.cadastrarMedico();
                     break;
                 case 2:
-                    // cadastro paciente
-
-                    System.out.println("Cadastro de Pacientes");
+                    Paciente.cadastrarPaciente();
                     break;
                 case 3:
-                    // agendamento
 
                     System.out.println("Lista de Medicos");
                     break;
