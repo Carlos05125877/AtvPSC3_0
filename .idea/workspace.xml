@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e0ec142-e210-469f-b0fc-fdc892caa688" name="Changes" comment="cc" />
+    <list default="true" id="5e0ec142-e210-469f-b0fc-fdc892caa688" name="Changes" comment="cc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atv4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Atv4/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728837927177</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="cc">
+      <option name="closed" value="true" />
+      <created>1728837960374</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728837960374</updated>
+    </task>
+    <task id="LOCAL-00013" summary="cc">
+      <option name="closed" value="true" />
+      <created>1728838009222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728838009222</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
