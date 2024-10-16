@@ -31,10 +31,8 @@ class Main {
                     Medicos.listarMedico();
                     break;
                 case 4:
-                    // agendamento
-                    System.out.println("Lista de Pacientes");
+                    Paciente.ListaPacientes();
                 case 5:
-                    // sair
                     System.out.println("Saindo......");
                 default:
                     System.out.println("Opção inválida.");
